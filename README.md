@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Valiente</h1>
-<h3 align="center">I am a Systems Engineering student and I love learning and developing software. I consider myself a collaborative and adaptable person. I work as part of a team and always seek to surpass my own limits to achieve excellence in each project. My main interest is software development, where I have experience in logic programming and knowledge in Java, JavaScript, PHP, HTML, CSS.</h3>
+<h3 align="center">Soy estudiante de Ingeniería de Sistemas y me encanta aprender y desarrollar software, me considero una persona colaborativa y adaptable, trabajo en equipo y siempre busco superar mis propios límites para lograr la excelencia en cada proyecto, mi interés principal es el desarrollo de software, donde tengo experiencia en programación lógica y conocimientos en Java, JavaScript, PHP, HTML, CSS.</h3>
 
 - 👯 I’m looking to collaborate on [AIRWAY](https://github.com/GabrielCarrilloF/AirWay---System.git)
 
